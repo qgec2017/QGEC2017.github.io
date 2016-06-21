@@ -1,69 +1,69 @@
-0000000000000000000000000000000000000000 751317435b4215876add6f0433bdaf875154f665 Jashan Sudan <jashansudan@gmail.com> 1446417454 -0500	branch: Created from HEAD
-751317435b4215876add6f0433bdaf875154f665 456916b4ce69dbdaca37061930ed058cbbeaf551 Jashan Sudan <jashansudan@gmail.com> 1446569045 -0500	commit: updating
-456916b4ce69dbdaca37061930ed058cbbeaf551 76dd3c72cab88539c939567a5071bd524af462dc Jashan Sudan <jashansudan@gmail.com> 1446569430 -0500	commit: fixing bugs
-76dd3c72cab88539c939567a5071bd524af462dc 07cee55106213f25124c02db54cfe77ef99e1c01 Jashan Sudan <jashansudan@gmail.com> 1446570377 -0500	commit: fixing bugs
-07cee55106213f25124c02db54cfe77ef99e1c01 2be1f31b31a03d4b6682b64535d5e6ddefd0b4b1 Jashan Sudan <jashansudan@gmail.com> 1446570574 -0500	commit: fixing things
-2be1f31b31a03d4b6682b64535d5e6ddefd0b4b1 d4269f8991cc397aa07aca252bf30f96c2ee27d9 Jashan Sudan <jashansudan@gmail.com> 1446570641 -0500	commit: still fixing bugs
-d4269f8991cc397aa07aca252bf30f96c2ee27d9 2e09fff8e86d4ec5f4f48d9463776c0bd9722ce6 Jashan Sudan <jashansudan@gmail.com> 1446591445 -0500	commit: updating
-2e09fff8e86d4ec5f4f48d9463776c0bd9722ce6 dc21bbc120ecdb7918d056286eb0c4c1c8e69279 Jashan Sudan <jashansudan@gmail.com> 1446836455 -0500	commit: updating
-dc21bbc120ecdb7918d056286eb0c4c1c8e69279 0cc1a4ba35fd26280002e1c120ec37a6c5f41acd Jashan Sudan <jashansudan@gmail.com> 1447341093 -0500	commit: updating
-0cc1a4ba35fd26280002e1c120ec37a6c5f41acd bcc5d9149f8a556842706e179df55f85ec397fc5 Jashan Sudan <jashansudan@gmail.com> 1447878471 -0500	commit: updating
-bcc5d9149f8a556842706e179df55f85ec397fc5 ba836e52d35e080264fe8832d6fabb68615adc82 Jashan Sudan <jashansudan@gmail.com> 1448655998 -0500	commit: updating
-ba836e52d35e080264fe8832d6fabb68615adc82 67e3c4d24270c490bdef7be0eccdc7101d3e9199 Jashan Sudan <jashansudan@gmail.com> 1452790149 -0500	commit: embedding youtube video
-67e3c4d24270c490bdef7be0eccdc7101d3e9199 b534c3c3d0cca14554acf2eac0d48ef02fd67571 Jashan Sudan <jashansudan@gmail.com> 1453607575 -0500	commit: updating speakers section
-b534c3c3d0cca14554acf2eac0d48ef02fd67571 7da52715d4582bdd30c1ad7afdd4b948026daefa Jashan Sudan <jashansudan@gmail.com> 1453608433 -0500	commit: setting up more speakers
-7da52715d4582bdd30c1ad7afdd4b948026daefa c004891137bd4aba6f27bcea39667b6d12c993e5 Jashan Sudan <jashansudan@gmail.com> 1453608650 -0500	commit: fixing pictures
-c004891137bd4aba6f27bcea39667b6d12c993e5 6ae549e7df75f5f58329dddda881eda75950f973 Jashan Sudan <jashansudan@gmail.com> 1453743211 -0500	commit: adding delegates application
-6ae549e7df75f5f58329dddda881eda75950f973 f3d1332a41e7e4f3e912b3b1a41c4be7a49d23c9 Jashan Sudan <jashansudan@gmail.com> 1453761806 -0500	commit: fixing speakers section
-f3d1332a41e7e4f3e912b3b1a41c4be7a49d23c9 96c38a348576110d236d939b427e8c2a6b20d30a Jashan Sudan <jashansudan@gmail.com> 1453762525 -0500	commit: fixed small bug
-96c38a348576110d236d939b427e8c2a6b20d30a 93672fbe9be514013d55c15af1dc148fe4bd6b70 Jashan Sudan <jashansudan@gmail.com> 1453940849 -0500	commit: adding new speaker
-93672fbe9be514013d55c15af1dc148fe4bd6b70 7d88105c408b44119f12657e829526526ff25a4e Jashan Sudan <jashansudan@gmail.com> 1454107405 -0500	commit: changing speaker job title
-7d88105c408b44119f12657e829526526ff25a4e 8f3e1696e9ce7bb9145a006eca2f5ee342447993 Jashan Sudan <jashansudan@gmail.com> 1454267249 -0500	commit: changing youtube video
-8f3e1696e9ce7bb9145a006eca2f5ee342447993 02fdd2c24aa17704ecb6b43943fddafd97f04632 Jashan Sudan <jashansudan@gmail.com> 1454359041 -0500	commit: small updates
-02fdd2c24aa17704ecb6b43943fddafd97f04632 f8d87a2e5cb67f6f5d0fca64d654fdcf721fff4b Jashan Sudan <jashansudan@gmail.com> 1454361421 -0500	commit: changing website look
-f8d87a2e5cb67f6f5d0fca64d654fdcf721fff4b 3d005b12a0daffe482ec8598e227af5fd3e29023 Jashan Sudan <jashansudan@gmail.com> 1454912255 -0500	commit: adding more speakers
-3d005b12a0daffe482ec8598e227af5fd3e29023 384797a5d3689739e6a221655faf7f9e6aed3f77 Jashan Sudan <jashansudan@gmail.com> 1455034733 -0500	commit: adding schedule
-384797a5d3689739e6a221655faf7f9e6aed3f77 56964ba19e5267dca8d08351cc382a1e18cfc0de Jashan Sudan <jashansudan@gmail.com> 1455598758 -0500	commit: testing formatting
-56964ba19e5267dca8d08351cc382a1e18cfc0de 33effbb64b548c22ec90d902a6ad618cecbd437c Jashan Sudan <jashansudan@gmail.com> 1455598870 -0500	commit: re adding
-33effbb64b548c22ec90d902a6ad618cecbd437c 2b0c0ee0672fac703b87deb14495d3e9f8b8a028 Jashan Sudan <jashansudan@gmail.com> 1455600775 -0500	commit: fixing formatting
-2b0c0ee0672fac703b87deb14495d3e9f8b8a028 5144b169205a0a86098d1406c1e0a7e7f91dff80 Jashan Sudan <jashansudan@gmail.com> 1455600872 -0500	commit: fixing formatting
-5144b169205a0a86098d1406c1e0a7e7f91dff80 18b4507ccae06a7a85707f543f20d1d52a90d6c9 Jashan Sudan <jashansudan@gmail.com> 1455600962 -0500	commit: re fixing
-18b4507ccae06a7a85707f543f20d1d52a90d6c9 6c93be69af71b2526fa91230ff2cfb103b8b6263 Jashan Sudan <jashansudan@gmail.com> 1455601177 -0500	commit: updating
-6c93be69af71b2526fa91230ff2cfb103b8b6263 19d4583f28db23123867c2d420bd0d8de35728c2 Jashan Sudan <jashansudan@gmail.com> 1455601298 -0500	commit: fixing formatting
-19d4583f28db23123867c2d420bd0d8de35728c2 ce9fc9175c45669a78ae0c0b3db5d152e940e7b9 Jashan Sudan <jashansudan@gmail.com> 1455601498 -0500	commit: fixing
-ce9fc9175c45669a78ae0c0b3db5d152e940e7b9 75da8ed6897d5c9736121f3e35179121594c28a3 Jashan Sudan <jashansudan@gmail.com> 1455601635 -0500	commit: fixing
-75da8ed6897d5c9736121f3e35179121594c28a3 7876923166f66e22912b1613b5467fd8e0429b7b Jashan Sudan <jashansudan@gmail.com> 1455601802 -0500	commit: fixing
-7876923166f66e22912b1613b5467fd8e0429b7b a368fc0bed93e4971ab882e933fa8da9c1ed7cf8 Jashan Sudan <jashansudan@gmail.com> 1455601883 -0500	commit: fixing
-a368fc0bed93e4971ab882e933fa8da9c1ed7cf8 a200a9033a85f62706f50499bb510356e17f83cd Jashan Sudan <jashansudan@gmail.com> 1455601981 -0500	commit: fixing
-a200a9033a85f62706f50499bb510356e17f83cd 05542ee4031a46fc1a7fe08f9bf949f726508610 Jashan Sudan <jashansudan@gmail.com> 1455602032 -0500	commit: fixing
-05542ee4031a46fc1a7fe08f9bf949f726508610 32dd44ff6068a43c10ef6a7e473f29c3a291409f Jashan Sudan <jashansudan@gmail.com> 1455603092 -0500	commit: mobile and desktop formatting fix
-32dd44ff6068a43c10ef6a7e473f29c3a291409f ae4cde329d0d76d9d881526bdb912eab1f0ff063 Jashan Sudan <jashansudan@gmail.com> 1455603204 -0500	commit: mobile and desktop formatting fix
-ae4cde329d0d76d9d881526bdb912eab1f0ff063 3ea21a0c2853b84903030f24e824b6c600635c80 Jashan Sudan <jashansudan@gmail.com> 1455603492 -0500	commit: fixing
-3ea21a0c2853b84903030f24e824b6c600635c80 40610125e823b7f6554a568c2fd5c95177923352 Jashan Sudan <jashansudan@gmail.com> 1455603658 -0500	commit: fixing
-40610125e823b7f6554a568c2fd5c95177923352 904b2fada678c2520f57327f11b372f52b57c5b7 Jashan Sudan <jashansudan@gmail.com> 1455603795 -0500	commit: fixing
-904b2fada678c2520f57327f11b372f52b57c5b7 72dcb0d025f784f83055b2bdce4dccd4c9ec720d Jashan Sudan <jashansudan@gmail.com> 1455604411 -0500	commit: fixing
-72dcb0d025f784f83055b2bdce4dccd4c9ec720d 45be60ae02c043ce5d6a48246adbec5b54ae2a7e Jashan Sudan <jashansudan@gmail.com> 1455604877 -0500	commit: trying
-45be60ae02c043ce5d6a48246adbec5b54ae2a7e c40e7f544d8704f20469a10805771e7896fb1f55 Jashan Sudan <jashansudan@gmail.com> 1455605447 -0500	commit: fixing mobile
-c40e7f544d8704f20469a10805771e7896fb1f55 28d650b5a4a43accd3238ad45156660d6709ecbc Jashan Sudan <jashansudan@gmail.com> 1455646271 -0500	commit: testing
-28d650b5a4a43accd3238ad45156660d6709ecbc 420af04b67c0aef126cfbb310c48ae3d04812bb2 Jashan Sudan <jashansudan@gmail.com> 1455646419 -0500	commit: adding facebook
-420af04b67c0aef126cfbb310c48ae3d04812bb2 66af3bd13f818360b015fb106f89760cb4aba197 Jashan Sudan <jashansudan@gmail.com> 1455646565 -0500	commit: changing fb
-66af3bd13f818360b015fb106f89760cb4aba197 9572c01565238a425c57ae71021a22b43e3b22f0 Jashan Sudan <jashansudan@gmail.com> 1455646616 -0500	commit: changing fb
-9572c01565238a425c57ae71021a22b43e3b22f0 410419ed99ff17031c75731b2380ed46f5afb7bc Jashan Sudan <jashansudan@gmail.com> 1455646771 -0500	commit: changing fb
-410419ed99ff17031c75731b2380ed46f5afb7bc a59e92f18f6dfb6c94e54fa57228ba53ad6c5b86 Jashan Sudan <jashansudan@gmail.com> 1455662817 -0500	commit: changing fb
-a59e92f18f6dfb6c94e54fa57228ba53ad6c5b86 df1ad05f0d2f4053756bd53bbd5bb4eeb709e8c9 Jashan Sudan <jashansudan@gmail.com> 1455670486 -0500	commit: updating
-df1ad05f0d2f4053756bd53bbd5bb4eeb709e8c9 fedcefb48621ff541958b55fcf9361987ae879ef Jashan Sudan <jashansudan@gmail.com> 1455671902 -0500	commit: fixing schedule
-fedcefb48621ff541958b55fcf9361987ae879ef 5d8e3949134cf79820bec9d50e655597be77ecce Jashan Sudan <jashansudan@gmail.com> 1456180180 -0500	commit: fixing titles
-5d8e3949134cf79820bec9d50e655597be77ecce 9dda0016ab95cef9842c787a8589d91ffa39965b Jashan Sudan <jashansudan@gmail.com> 1456180296 -0500	commit: changing facebook size
-9dda0016ab95cef9842c787a8589d91ffa39965b 6f25f567b4e2a298c6e00bf975630dd617dc4bb4 Jashan Sudan <jashansudan@gmail.com> 1456180664 -0500	commit: updating
-6f25f567b4e2a298c6e00bf975630dd617dc4bb4 3e1ef609a3429c98186506f39e89db4ae504863e Jashan Sudan <jashansudan@gmail.com> 1456180709 -0500	commit: updating
-3e1ef609a3429c98186506f39e89db4ae504863e 3282c23083790d7c67914b07084b9da31798b6a8 Jashan Sudan <jashansudan@gmail.com> 1456180863 -0500	commit: updating
-3282c23083790d7c67914b07084b9da31798b6a8 40b0415600da8175164659b2e5dc24d11751e701 Jashan Sudan <jashansudan@gmail.com> 1456181048 -0500	commit: updating
-40b0415600da8175164659b2e5dc24d11751e701 7b717b11594e8481389531cecb31ae3289d49088 Jashan Sudan <jashansudan@gmail.com> 1456181099 -0500	commit: updating
-7b717b11594e8481389531cecb31ae3289d49088 54b058ae8dbdba6c6e619f801e40adcef61800e2 Jashan Sudan <jashansudan@gmail.com> 1456181790 -0500	commit: updating
-54b058ae8dbdba6c6e619f801e40adcef61800e2 4b5704f58ab39a781dc047cf183002ee343e5cc2 Jashan Sudan <jashansudan@gmail.com> 1456181841 -0500	commit: fixing text placement
-4b5704f58ab39a781dc047cf183002ee343e5cc2 33174a5271cd3c2a075f905b94ec6355beab1673 Jashan Sudan <jashansudan@gmail.com> 1456181869 -0500	commit: fixing text placement
-33174a5271cd3c2a075f905b94ec6355beab1673 62246a4c7de57ef2b625d6622ec7558e90ad849c Jashan Sudan <jashansudan@gmail.com> 1460502698 -0400	commit: changing readme
-62246a4c7de57ef2b625d6622ec7558e90ad849c 08888d87ddada6a8f54909904defec35440fc882 Jashan Sudan <jashansudan@gmail.com> 1460502767 -0400	pull: Fast-forward
-08888d87ddada6a8f54909904defec35440fc882 47dd32707b41f1f1ca67bfd9806fbf41257ec63a Jashan Sudan <jashansudan@gmail.com> 1460503125 -0400	commit: removing cName
-47dd32707b41f1f1ca67bfd9806fbf41257ec63a 5db484e72e4a599cb21e108784d6989e674e4fad Jashan Sudan <jashansudan@gmail.com> 1460503798 -0400	commit: removing photo
-5db484e72e4a599cb21e108784d6989e674e4fad 9768f3b9f6dc234c630dd4b901f0633543b7d280 qgec2017 <sivakumar.shwetha@gmail.com> 1466520428 -0400	commit: changes (June 21 2016)
+0000000000000000000000000000000000000000 751317435b4215876add6f0433bdaf875154f665 Jashan Sudan <jashansudan@gmail.com> 1446417500 -0500	update by push
+751317435b4215876add6f0433bdaf875154f665 456916b4ce69dbdaca37061930ed058cbbeaf551 Jashan Sudan <jashansudan@gmail.com> 1446569050 -0500	update by push
+456916b4ce69dbdaca37061930ed058cbbeaf551 76dd3c72cab88539c939567a5071bd524af462dc Jashan Sudan <jashansudan@gmail.com> 1446569433 -0500	update by push
+76dd3c72cab88539c939567a5071bd524af462dc 07cee55106213f25124c02db54cfe77ef99e1c01 Jashan Sudan <jashansudan@gmail.com> 1446570379 -0500	update by push
+07cee55106213f25124c02db54cfe77ef99e1c01 2be1f31b31a03d4b6682b64535d5e6ddefd0b4b1 Jashan Sudan <jashansudan@gmail.com> 1446570579 -0500	update by push
+2be1f31b31a03d4b6682b64535d5e6ddefd0b4b1 d4269f8991cc397aa07aca252bf30f96c2ee27d9 Jashan Sudan <jashansudan@gmail.com> 1446570643 -0500	update by push
+d4269f8991cc397aa07aca252bf30f96c2ee27d9 2e09fff8e86d4ec5f4f48d9463776c0bd9722ce6 Jashan Sudan <jashansudan@gmail.com> 1446591449 -0500	update by push
+2e09fff8e86d4ec5f4f48d9463776c0bd9722ce6 dc21bbc120ecdb7918d056286eb0c4c1c8e69279 Jashan Sudan <jashansudan@gmail.com> 1446836461 -0500	update by push
+dc21bbc120ecdb7918d056286eb0c4c1c8e69279 0cc1a4ba35fd26280002e1c120ec37a6c5f41acd Jashan Sudan <jashansudan@gmail.com> 1447341096 -0500	update by push
+0cc1a4ba35fd26280002e1c120ec37a6c5f41acd bcc5d9149f8a556842706e179df55f85ec397fc5 Jashan Sudan <jashansudan@gmail.com> 1447878474 -0500	update by push
+bcc5d9149f8a556842706e179df55f85ec397fc5 ba836e52d35e080264fe8832d6fabb68615adc82 Jashan Sudan <jashansudan@gmail.com> 1448656000 -0500	update by push
+ba836e52d35e080264fe8832d6fabb68615adc82 67e3c4d24270c490bdef7be0eccdc7101d3e9199 Jashan Sudan <jashansudan@gmail.com> 1452790155 -0500	update by push
+67e3c4d24270c490bdef7be0eccdc7101d3e9199 b534c3c3d0cca14554acf2eac0d48ef02fd67571 Jashan Sudan <jashansudan@gmail.com> 1453607580 -0500	update by push
+b534c3c3d0cca14554acf2eac0d48ef02fd67571 7da52715d4582bdd30c1ad7afdd4b948026daefa Jashan Sudan <jashansudan@gmail.com> 1453608438 -0500	update by push
+7da52715d4582bdd30c1ad7afdd4b948026daefa c004891137bd4aba6f27bcea39667b6d12c993e5 Jashan Sudan <jashansudan@gmail.com> 1453608653 -0500	update by push
+c004891137bd4aba6f27bcea39667b6d12c993e5 6ae549e7df75f5f58329dddda881eda75950f973 Jashan Sudan <jashansudan@gmail.com> 1453743213 -0500	update by push
+6ae549e7df75f5f58329dddda881eda75950f973 f3d1332a41e7e4f3e912b3b1a41c4be7a49d23c9 Jashan Sudan <jashansudan@gmail.com> 1453761809 -0500	update by push
+f3d1332a41e7e4f3e912b3b1a41c4be7a49d23c9 96c38a348576110d236d939b427e8c2a6b20d30a Jashan Sudan <jashansudan@gmail.com> 1453762527 -0500	update by push
+96c38a348576110d236d939b427e8c2a6b20d30a 93672fbe9be514013d55c15af1dc148fe4bd6b70 Jashan Sudan <jashansudan@gmail.com> 1454026067 -0500	update by push
+93672fbe9be514013d55c15af1dc148fe4bd6b70 7d88105c408b44119f12657e829526526ff25a4e Jashan Sudan <jashansudan@gmail.com> 1454107409 -0500	update by push
+7d88105c408b44119f12657e829526526ff25a4e 8f3e1696e9ce7bb9145a006eca2f5ee342447993 Jashan Sudan <jashansudan@gmail.com> 1454267253 -0500	update by push
+8f3e1696e9ce7bb9145a006eca2f5ee342447993 02fdd2c24aa17704ecb6b43943fddafd97f04632 Jashan Sudan <jashansudan@gmail.com> 1454359043 -0500	update by push
+02fdd2c24aa17704ecb6b43943fddafd97f04632 f8d87a2e5cb67f6f5d0fca64d654fdcf721fff4b Jashan Sudan <jashansudan@gmail.com> 1454361425 -0500	update by push
+f8d87a2e5cb67f6f5d0fca64d654fdcf721fff4b 3d005b12a0daffe482ec8598e227af5fd3e29023 Jashan Sudan <jashansudan@gmail.com> 1454912258 -0500	update by push
+3d005b12a0daffe482ec8598e227af5fd3e29023 384797a5d3689739e6a221655faf7f9e6aed3f77 Jashan Sudan <jashansudan@gmail.com> 1455034736 -0500	update by push
+384797a5d3689739e6a221655faf7f9e6aed3f77 56964ba19e5267dca8d08351cc382a1e18cfc0de Jashan Sudan <jashansudan@gmail.com> 1455598761 -0500	update by push
+56964ba19e5267dca8d08351cc382a1e18cfc0de 33effbb64b548c22ec90d902a6ad618cecbd437c Jashan Sudan <jashansudan@gmail.com> 1455598873 -0500	update by push
+33effbb64b548c22ec90d902a6ad618cecbd437c 2b0c0ee0672fac703b87deb14495d3e9f8b8a028 Jashan Sudan <jashansudan@gmail.com> 1455600784 -0500	update by push
+2b0c0ee0672fac703b87deb14495d3e9f8b8a028 5144b169205a0a86098d1406c1e0a7e7f91dff80 Jashan Sudan <jashansudan@gmail.com> 1455600875 -0500	update by push
+5144b169205a0a86098d1406c1e0a7e7f91dff80 18b4507ccae06a7a85707f543f20d1d52a90d6c9 Jashan Sudan <jashansudan@gmail.com> 1455600965 -0500	update by push
+18b4507ccae06a7a85707f543f20d1d52a90d6c9 6c93be69af71b2526fa91230ff2cfb103b8b6263 Jashan Sudan <jashansudan@gmail.com> 1455601179 -0500	update by push
+6c93be69af71b2526fa91230ff2cfb103b8b6263 19d4583f28db23123867c2d420bd0d8de35728c2 Jashan Sudan <jashansudan@gmail.com> 1455601300 -0500	update by push
+19d4583f28db23123867c2d420bd0d8de35728c2 ce9fc9175c45669a78ae0c0b3db5d152e940e7b9 Jashan Sudan <jashansudan@gmail.com> 1455601504 -0500	update by push
+ce9fc9175c45669a78ae0c0b3db5d152e940e7b9 75da8ed6897d5c9736121f3e35179121594c28a3 Jashan Sudan <jashansudan@gmail.com> 1455601638 -0500	update by push
+75da8ed6897d5c9736121f3e35179121594c28a3 7876923166f66e22912b1613b5467fd8e0429b7b Jashan Sudan <jashansudan@gmail.com> 1455601805 -0500	update by push
+7876923166f66e22912b1613b5467fd8e0429b7b a368fc0bed93e4971ab882e933fa8da9c1ed7cf8 Jashan Sudan <jashansudan@gmail.com> 1455601886 -0500	update by push
+a368fc0bed93e4971ab882e933fa8da9c1ed7cf8 a200a9033a85f62706f50499bb510356e17f83cd Jashan Sudan <jashansudan@gmail.com> 1455601983 -0500	update by push
+a200a9033a85f62706f50499bb510356e17f83cd 05542ee4031a46fc1a7fe08f9bf949f726508610 Jashan Sudan <jashansudan@gmail.com> 1455602035 -0500	update by push
+05542ee4031a46fc1a7fe08f9bf949f726508610 32dd44ff6068a43c10ef6a7e473f29c3a291409f Jashan Sudan <jashansudan@gmail.com> 1455603094 -0500	update by push
+32dd44ff6068a43c10ef6a7e473f29c3a291409f ae4cde329d0d76d9d881526bdb912eab1f0ff063 Jashan Sudan <jashansudan@gmail.com> 1455603208 -0500	update by push
+ae4cde329d0d76d9d881526bdb912eab1f0ff063 3ea21a0c2853b84903030f24e824b6c600635c80 Jashan Sudan <jashansudan@gmail.com> 1455603494 -0500	update by push
+3ea21a0c2853b84903030f24e824b6c600635c80 40610125e823b7f6554a568c2fd5c95177923352 Jashan Sudan <jashansudan@gmail.com> 1455603662 -0500	update by push
+40610125e823b7f6554a568c2fd5c95177923352 904b2fada678c2520f57327f11b372f52b57c5b7 Jashan Sudan <jashansudan@gmail.com> 1455603797 -0500	update by push
+904b2fada678c2520f57327f11b372f52b57c5b7 72dcb0d025f784f83055b2bdce4dccd4c9ec720d Jashan Sudan <jashansudan@gmail.com> 1455604414 -0500	update by push
+72dcb0d025f784f83055b2bdce4dccd4c9ec720d 45be60ae02c043ce5d6a48246adbec5b54ae2a7e Jashan Sudan <jashansudan@gmail.com> 1455604880 -0500	update by push
+45be60ae02c043ce5d6a48246adbec5b54ae2a7e c40e7f544d8704f20469a10805771e7896fb1f55 Jashan Sudan <jashansudan@gmail.com> 1455605449 -0500	update by push
+c40e7f544d8704f20469a10805771e7896fb1f55 28d650b5a4a43accd3238ad45156660d6709ecbc Jashan Sudan <jashansudan@gmail.com> 1455646274 -0500	update by push
+28d650b5a4a43accd3238ad45156660d6709ecbc 420af04b67c0aef126cfbb310c48ae3d04812bb2 Jashan Sudan <jashansudan@gmail.com> 1455646422 -0500	update by push
+420af04b67c0aef126cfbb310c48ae3d04812bb2 66af3bd13f818360b015fb106f89760cb4aba197 Jashan Sudan <jashansudan@gmail.com> 1455646567 -0500	update by push
+66af3bd13f818360b015fb106f89760cb4aba197 9572c01565238a425c57ae71021a22b43e3b22f0 Jashan Sudan <jashansudan@gmail.com> 1455646618 -0500	update by push
+9572c01565238a425c57ae71021a22b43e3b22f0 410419ed99ff17031c75731b2380ed46f5afb7bc Jashan Sudan <jashansudan@gmail.com> 1455646774 -0500	update by push
+410419ed99ff17031c75731b2380ed46f5afb7bc a59e92f18f6dfb6c94e54fa57228ba53ad6c5b86 Jashan Sudan <jashansudan@gmail.com> 1455662821 -0500	update by push
+a59e92f18f6dfb6c94e54fa57228ba53ad6c5b86 df1ad05f0d2f4053756bd53bbd5bb4eeb709e8c9 Jashan Sudan <jashansudan@gmail.com> 1455670490 -0500	update by push
+df1ad05f0d2f4053756bd53bbd5bb4eeb709e8c9 fedcefb48621ff541958b55fcf9361987ae879ef Jashan Sudan <jashansudan@gmail.com> 1455671906 -0500	update by push
+fedcefb48621ff541958b55fcf9361987ae879ef 5d8e3949134cf79820bec9d50e655597be77ecce Jashan Sudan <jashansudan@gmail.com> 1456180183 -0500	update by push
+5d8e3949134cf79820bec9d50e655597be77ecce 9dda0016ab95cef9842c787a8589d91ffa39965b Jashan Sudan <jashansudan@gmail.com> 1456180299 -0500	update by push
+9dda0016ab95cef9842c787a8589d91ffa39965b 6f25f567b4e2a298c6e00bf975630dd617dc4bb4 Jashan Sudan <jashansudan@gmail.com> 1456180666 -0500	update by push
+6f25f567b4e2a298c6e00bf975630dd617dc4bb4 3e1ef609a3429c98186506f39e89db4ae504863e Jashan Sudan <jashansudan@gmail.com> 1456180712 -0500	update by push
+3e1ef609a3429c98186506f39e89db4ae504863e 3282c23083790d7c67914b07084b9da31798b6a8 Jashan Sudan <jashansudan@gmail.com> 1456180866 -0500	update by push
+3282c23083790d7c67914b07084b9da31798b6a8 40b0415600da8175164659b2e5dc24d11751e701 Jashan Sudan <jashansudan@gmail.com> 1456181051 -0500	update by push
+40b0415600da8175164659b2e5dc24d11751e701 7b717b11594e8481389531cecb31ae3289d49088 Jashan Sudan <jashansudan@gmail.com> 1456181107 -0500	update by push
+7b717b11594e8481389531cecb31ae3289d49088 54b058ae8dbdba6c6e619f801e40adcef61800e2 Jashan Sudan <jashansudan@gmail.com> 1456181794 -0500	update by push
+54b058ae8dbdba6c6e619f801e40adcef61800e2 4b5704f58ab39a781dc047cf183002ee343e5cc2 Jashan Sudan <jashansudan@gmail.com> 1456181843 -0500	update by push
+4b5704f58ab39a781dc047cf183002ee343e5cc2 33174a5271cd3c2a075f905b94ec6355beab1673 Jashan Sudan <jashansudan@gmail.com> 1456181872 -0500	update by push
+33174a5271cd3c2a075f905b94ec6355beab1673 62246a4c7de57ef2b625d6622ec7558e90ad849c Jashan Sudan <jashansudan@gmail.com> 1460502701 -0400	update by push
+62246a4c7de57ef2b625d6622ec7558e90ad849c 08888d87ddada6a8f54909904defec35440fc882 Jashan Sudan <jashansudan@gmail.com> 1460502767 -0400	pull: fast-forward
+08888d87ddada6a8f54909904defec35440fc882 47dd32707b41f1f1ca67bfd9806fbf41257ec63a Jashan Sudan <jashansudan@gmail.com> 1460503127 -0400	update by push
+47dd32707b41f1f1ca67bfd9806fbf41257ec63a 5db484e72e4a599cb21e108784d6989e674e4fad Jashan Sudan <jashansudan@gmail.com> 1460503804 -0400	update by push
+5db484e72e4a599cb21e108784d6989e674e4fad 41d9aab8ca53dd3be1e6552b457829573529ce26 qgec2017 <sivakumar.shwetha@gmail.com> 1466520361 -0400	pull --progress --prune origin gh-pages: fast-forward
